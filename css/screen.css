@@ -17,6 +17,7 @@ html {
  #header {   
     font-family: 'Audiowide', cursive;
     font-size: 2em;
+    text-shadow: 3px 3px #504b2f;
     text-align: center;
     width: 190%;
 	background-color: #dea563; 
