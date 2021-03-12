@@ -8,8 +8,9 @@ html {
     }
  
  #wrapper {
-    width: 960px center;
+    width: 960px;
     height: 900px;
+    align-items: center;
     margin-left: 0px;
     padding: 20px
 }
@@ -18,7 +19,7 @@ html {
     font-family: 'Audiowide', cursive;
     font-size: 2em;
     text-align: center;
-    width: 100%;
+    width: 190%;
 	background-color: #dea563; 
     margin-top: 20px;
     margin-left: 2px;
@@ -28,7 +29,7 @@ html {
  body {
     background-image: url(../images/gallaxy2.jpg);
     background-repeat: no-repeat;
-    background: cover;
+    background-size: cover;
     }
  
  #main {
