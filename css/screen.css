@@ -9,9 +9,9 @@ html {
  
  #wrapper {
     width: 960px;
-    height:900px;
+    height: 900px;
     margin-left: 275px;
-    padding: 20px;
+    padding: 20px
 }
  
  #header {   
@@ -28,7 +28,6 @@ html {
  body {
     background-image: url(../images/gallaxy2.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
     }
  
  #main {
@@ -55,6 +54,7 @@ table {
 	font-family: 'Source Sans Pro', sans-serif;
 	border-collapse: collapse;
     padding: 50px;
+    position: relative;
     }
       
  td {
