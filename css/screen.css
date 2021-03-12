@@ -8,9 +8,9 @@ html {
     }
  
  #wrapper {
-    width: 960px;
+    width: 960px center;
     height: 900px;
-    margin-left: 275px;
+    margin-left: 0px;
     padding: 20px
 }
  
@@ -18,7 +18,7 @@ html {
     font-family: 'Audiowide', cursive;
     font-size: 2em;
     text-align: center;
-    width: 134%;
+    width: 100%;
 	background-color: #dea563; 
     margin-top: 20px;
     margin-left: 2px;
@@ -28,6 +28,7 @@ html {
  body {
     background-image: url(../images/gallaxy2.jpg);
     background-repeat: no-repeat;
+    background: cover;
     }
  
  #main {
@@ -49,12 +50,14 @@ html {
 a {
     color: #dea563;
     }  
+
        
 table {
 	font-family: 'Source Sans Pro', sans-serif;
 	border-collapse: collapse;
     padding: 50px;
-    position: relative;
+    margin-left: 230px;
+    margin-right: auto;
     }
       
  td {
@@ -71,6 +74,6 @@ table {
     clear: left;
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
-	text-align: left;
+	text-align: center;
 	padding: 10px;
     }
