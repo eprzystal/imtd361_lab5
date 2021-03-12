@@ -1,5 +1,6 @@
 html {
-    font-family: 'Audiowide', cursive;'Source Sans Pro', sans-serif;
+    font-family: 'Audiowide', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1em; /* 16px */
     color: white;
     line-height: 1.5em; /* 24px */
@@ -66,7 +67,7 @@ table {
 }
       
 #footer {
-    clear: center;
+    clear: left;
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
 	text-align: center;
