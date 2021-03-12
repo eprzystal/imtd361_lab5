@@ -41,7 +41,10 @@ html {
     background: black;
     border: none;
 } 
-
+#planets {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+}
 a {
        color: #dea563;
  }  
