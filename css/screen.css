@@ -27,7 +27,8 @@ html {
 }
     
  body {
-    background-image: url(../images/gallaxy.jpg);
+    background-image: url(../images/gallaxy2.jpg);
+    background-repeat: no-repeat;
     }
  
  #main {
